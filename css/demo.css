@@ -2,7 +2,7 @@
 
 /* General Demo Style */
 body{
-	background-color: #53F1F1;
+	background-color: #faebd7;
 	color:#000;
 	font-family: 'PT Sans Narrow', Arial, sans-serif;
 	font-size:12px;
@@ -60,7 +60,7 @@ h1 span, h5{
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: #FF5858;
+	background-color: #9A9AAF;
 }
 
 #nav-li{
@@ -76,11 +76,19 @@ h1 span, h5{
 }
 
 #nav-li a:hover{
-	background-color: #FF9A9A;
+	background-color: #777796;
 }
 
 #footer{
-	height: 100px;
-	background-color: #FF5858;
+	height: 50px;
+	background-color: #9A9AAF;
 	width:100%;
 }
+
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+}
+
+
+
